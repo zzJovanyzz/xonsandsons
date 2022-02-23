@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/xonsandsons/static/js/main.18867965.js",
+    "main.js": "/xonsandsons/static/js/main.6dddeb0e.js",
     "index.html": "/xonsandsons/index.html",
-    "main.18867965.js.map": "/xonsandsons/static/js/main.18867965.js.map"
+    "main.6dddeb0e.js.map": "/xonsandsons/static/js/main.6dddeb0e.js.map"
   },
   "entrypoints": [
-    "static/js/main.18867965.js"
+    "static/js/main.6dddeb0e.js"
   ]
 }
